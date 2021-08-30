@@ -1,0 +1,7 @@
+Hi Nick.
+
+First thing you want to do is Ctrl + R, type cmd ###opens command prompt###
+Then type: 'pip install nltk' ###packages which contain modules needed to run April, like certain modules that don't already come with python###
+Then type: 'pip3 torch torchvision torch audio' ###same as above reason.###
+
+Once they have been installed run 'chat'. and enjoy :-)
